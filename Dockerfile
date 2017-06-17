@@ -13,4 +13,4 @@ RUN yarn
 
 EXPOSE 4200 8081
 
-CMD ["yarn", "start"]
+CMD ["yarn", "start:dist"]
