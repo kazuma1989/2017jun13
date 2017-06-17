@@ -3,5 +3,5 @@ services:
   angular:
     build: .
     ports:
-      - 4200:4200
-      - 8081:8081
+      - 4200
+      - 8081
